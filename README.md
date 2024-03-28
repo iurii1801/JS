@@ -9,3 +9,4 @@
 1. файл `transactions.json`, содержащий указанные транзакции
 2. файл `main.js`, содержащий весь код
 
+## Класс `TransactionAnalyzer`
