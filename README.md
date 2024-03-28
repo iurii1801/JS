@@ -57,7 +57,7 @@
   Я использовал один метод массивов для обработки и анализа данных - это:
 `.filter()` - для того, чтобы создать массив из транзакций с опредленной датой.
   
-  ```const all_transactions_by_month = this.transactions.filter(transaction => {
+  const all_transactions_by_month = this.transactions.filter(transaction => {
                     let date_split = transaction.transaction_date.split("-");
                     if((date_split[0]+"-"+date_split[1]) === month){
                         return true;
@@ -65,6 +65,6 @@
                     else{
                         return false;
                     }
-                })
+                }) ```markdown
      
   
