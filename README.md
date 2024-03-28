@@ -66,4 +66,4 @@ const all_transactions_by_month = this.transactions.filter(transaction => {
         return false;
     }
 })
-
+```
