@@ -70,3 +70,21 @@ const all_transactions_by_month = this.transactions.filter(transaction => {
     }
 });
 
+```
+3. В чем состоит роль конструктора класса?
+
+Конструктор класса - это специальный метод, который вызывается при создании нового объекта из класса. Он обычно используется для инициализации свойств объекта.
+
+4. Каким образом вы можете создать новый экземпляр класса в JavaScript?
+
+```javascript
+const exemplar_name = new Class_name();
+
+```
+
+
+## Список использованных источников
+
+https://github.com/MSU-Courses/javascript_typescript/tree/main/docs
+https://chat.openai.com/c/746bbd76-2bd2-4448-9678-b28d1ec1a6f3
+
