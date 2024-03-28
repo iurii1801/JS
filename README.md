@@ -86,5 +86,6 @@ const exemplar_name = new Class_name();
 ## Список использованных источников
 
 https://github.com/MSU-Courses/javascript_typescript/tree/main/docs
+
 https://chat.openai.com/c/746bbd76-2bd2-4448-9678-b28d1ec1a6f3
 
